@@ -5,8 +5,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=NixonIverson&label=Profile%20views&color=ff2a6d&style=for-the-badge" alt="views" />
-<a href="https://github.com/NixonIverson?tab=followers"><img src="https://img.shields.io/github/followers/NixonIverson?style=for-the-badge&logo=github&color=7b2ff7" alt="followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=NixonIverson&label=Profile%20views&color=ff003c&style=for-the-badge" alt="views" />
+<a href="https://github.com/NixonIverson?tab=followers"><img src="https://img.shields.io/github/followers/NixonIverson?style=for-the-badge&logo=github&color=fcee0a" alt="followers" /></a>
 
 <br/><br/>
 
@@ -48,7 +48,7 @@
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/javascript-fcee0a.svg?style=for-the-badge) ![PHP](https://img.shields.io/badge/php-00f0ff.svg?style=for-the-badge) ![Lua](https://img.shields.io/badge/lua-ff003c.svg?style=for-the-badge) ![Python](https://img.shields.io/badge/python-fcee0a?style=for-the-badge) ![TypeScript](https://img.shields.io/badge/typescript-00f0ff.svg?style=for-the-badge) ![Vercel](https://img.shields.io/badge/vercel-ff003c.svg?style=for-the-badge) ![NodeJS](https://img.shields.io/badge/node.js-fcee0a?style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/bootstrap-00f0ff.svg?style=for-the-badge) ![React](https://img.shields.io/badge/react-ff003c.svg?style=for-the-badge) ![Apache](https://img.shields.io/badge/apache-fcee0a.svg?style=for-the-badge) ![MySQL](https://img.shields.io/badge/mysql-00f0ff.svg?style=for-the-badge) ![MariaDB](https://img.shields.io/badge/MariaDB-ff003c?style=for-the-badge) ![Figma](https://img.shields.io/badge/figma-fcee0a.svg?style=for-the-badge) ![Canva](https://img.shields.io/badge/Canva-00f0ff.svg?style=for-the-badge) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-ff003c.svg?style=for-the-badge) ![nVIDIA](https://img.shields.io/badge/nVIDIA-fcee0a.svg?style=for-the-badge) ![Cisco](https://img.shields.io/badge/cisco-00f0ff.svg?style=for-the-badge) ![Portfolio](https://img.shields.io/badge/Portfolio-ff003c.svg?style=for-the-badge) ![PlayStation Network](https://img.shields.io/badge/PSN-fcee0a.svg?style=for-the-badge) ![Riot Games](https://img.shields.io/badge/riotgames-00f0ff.svg?style=for-the-badge) ![Arduino](https://img.shields.io/badge/-Arduino-ff003c?style=for-the-badge) ![EA](https://img.shields.io/badge/ea-fcee0a.svg?style=for-the-badge) ![Epic Games](https://img.shields.io/badge/epicgames-00f0ff.svg?style=for-the-badge) ![Steam](https://img.shields.io/badge/steam-ff003c.svg?style=for-the-badge)
 
 </div>
 
@@ -58,24 +58,28 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=NixonIverson&show_icons=true&hide_border=false&bg_color=0a0014&title_color=05d9e8&text_color=e6e0ff&icon_color=ff2a6d&border_color=7b2ff7" alt="stats" />
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=NixonIverson&show_icons=true&hide_border=false&bg_color=0a0a0f&title_color=fcee0a&text_color=f3f3f3&icon_color=00f0ff&border_color=fcee0a" alt="stats" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=NixonIverson&background=0a0014&stroke=7b2ff7&ring=ff2a6d&fire=f9f002&currStreakNum=05d9e8&sideNums=05d9e8&currStreakLabel=ff2a6d&sideLabels=e6e0ff&dates=b48cff" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=NixonIverson&background=0a0a0f&stroke=fcee0a&ring=ff003c&fire=fcee0a&currStreakNum=00f0ff&sideNums=00f0ff&currStreakLabel=ff003c&sideLabels=f3f3f3&dates=8f9aa5" alt="streak" />
 
 </div>
 
 ### 🔤 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NixonIverson&layout=donut&langs_count=8&hide_border=false&bg_color=0a0014&title_color=05d9e8&text_color=e6e0ff&border_color=7b2ff7" alt="Most used languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NixonIverson&layout=donut&langs_count=8&hide_border=false&bg_color=0a0a0f&title_color=fcee0a&text_color=f3f3f3&border_color=fcee0a" alt="Most used languages" />
 </div>
 
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NixonIverson&bg_color=0a0014&color=05d9e8&line=ff2a6d&point=f9f002&area=true&area_color=ff2a6d&title_color=05d9e8&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" width="100%" />
+  <img src="./assets/hud-top.svg" width="100%" alt="Breach protocol: contribution feed" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NixonIverson&bg_color=0a0a0f&color=00f0ff&line=fcee0a&point=ff003c&area=true&area_color=fcee0a&title_color=fcee0a&hide_border=true&custom_title=ACTIVITY_LOG%20%2F%2F%20LAST%2031%20DAYS" alt="Contribution activity graph" width="100%" />
+  <br/>
+  <img src="./assets/hud-bottom.svg" width="100%" alt="Access granted" />
 </div>
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
@@ -83,7 +87,7 @@
 ### ✍️ Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2a6d,50:7b2ff7,100:05d9e8&height=120&section=footer&animation=twinkling" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fcee0a,50:ff003c,100:00f0ff&height=120&section=footer&animation=twinkling" width="100%" alt="footer" />
