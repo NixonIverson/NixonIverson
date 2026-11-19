@@ -40,30 +40,9 @@
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,py,lua,nodejs,react,bootstrap,apache,mysql,mariadb,figma,ps,arduino,vercel,git,github,linux&perline=9" alt="Tech stack" />
-</a>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge)
 
 </div>
-
-<details>
-<summary><b>🧰 More tools & platforms (click to expand)</b></summary>
-<br/>
-
-<div align="center">
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![PSN](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
-
-</div>
-
-</details>
 
 ---
 
