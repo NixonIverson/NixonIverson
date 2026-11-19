@@ -1,18 +1,112 @@
-# 💫 About Me:
-🔭 I’m currently working on web apps, UI/UX designs in Figma, and Arduino hardware circuits<br>👯 I’m looking to collaborate on practical web projects, UI/UX work, and open-source tools<br>🤝 I’m looking for help with full-stack architecture and local AI workflows<br>🌱 I’m currently learning ReactJS, Python, and AI-powered study tools<br>💬 Ask me about PHP, MySQL, HTML/CSS/JS, Python, Figma, Video editing, or chess<br>⚡ Fun fact: I love running local AI models on my own machine and building clean, lightweight websites without relying on heavy frameworks
+<!-- ===================== ANIMATED HEADER ===================== -->
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nixon%20Iverson&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Web%20Developer%20%C2%B7%20UI%2FUX%20Designer%20%C2%B7%20Hardware%20Tinkerer&descSize=18&descAlignY=58" alt="header" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Nixwon_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nixoniverson12@gmail.com) 
+<!-- Typing animation -->
+<a href="https://github.com/NixonIverson">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=50&lines=Building+clean%2C+lightweight+websites;PHP+%2B+MySQL+%7C+HTML%2FCSS%2FJS+%7C+Python;Designing+interfaces+in+Figma;Wiring+Arduino+circuits;Running+local+AI+models+on+my+own+machine" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=NixonIverson&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=NixonIverson&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=NixonIverson&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=NixonIverson&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
+<a href="https://github.com/NixonIverson?tab=followers"><img src="https://img.shields.io/github/followers/NixonIverson?style=for-the-badge&logo=github&color=24292e" alt="followers" /></a>
+
+</div>
+
+---
+
+## 💫 About Me
+
+🔭 Currently working on **web apps**, **UI/UX designs in Figma**, and **Arduino hardware circuits**
+👯 Looking to collaborate on practical web projects, UI/UX work, and open-source tools
+🤝 Looking for help with **full-stack architecture** and **local AI workflows**
+🌱 Learning **ReactJS**, **Python**, and **AI-powered study tools**
+💬 Ask me about PHP, MySQL, HTML/CSS/JS, Python, Figma, video editing, or chess
+⚡ Fun fact: I love running local AI models on my own machine and building clean, lightweight websites without heavy frameworks
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://instagram.com/Nixwon_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:nixoniverson12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,py,lua,nodejs,react,bootstrap,apache,mysql,mariadb,figma,ps,arduino,vercel,git,github,linux&perline=9" alt="Tech stack" />
+</a>
+
+</div>
+
+<details>
+<summary><b>🧰 More tools & platforms (click to expand)</b></summary>
+<br/>
+
+<div align="center">
+
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![PSN](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
+![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
+
+</div>
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=NixonIverson&theme=radical&hide_border=true&show_icons=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=NixonIverson&theme=radical&hide_border=true&layout=compact" alt="top langs" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=NixonIverson&theme=radical&hide_border=true" alt="streak" />
+
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NixonIverson&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" width="100%" />
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NixonIverson/NixonIverson/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NixonIverson/NixonIverson/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/NixonIverson/NixonIverson/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<!-- The snake needs the GitHub Action in .github/workflows/snake.yml (see setup notes) -->
+
+---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
