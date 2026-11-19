@@ -1,12 +1,7 @@
-<!-- ===================== ANIMATED HEADER ===================== -->
+<!-- ===================== ANIMATED HERO (TOP) ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nixon%20Iverson&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Web%20Developer%20%C2%B7%20UI%2FUX%20Designer%20%C2%B7%20Hardware%20Tinkerer&descSize=18&descAlignY=58" alt="header" />
-
-<!-- Typing animation -->
-<a href="https://github.com/NixonIverson">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=50&lines=Building+clean%2C+lightweight+websites;PHP+%2B+MySQL+%7C+HTML%2FCSS%2FJS+%7C+Python;Designing+interfaces+in+Figma;Wiring+Arduino+circuits;Running+local+AI+models+on+my+own+machine" alt="Typing SVG" />
-</a>
+<img src="./assets/hero.svg" alt="Nixon Iverson - animated banner" width="100%" />
 
 <br/>
 
@@ -19,12 +14,14 @@
 
 ## 💫 About Me
 
-🔭 Currently working on **web apps**, **UI/UX designs in Figma**, and **Arduino hardware circuits**
-👯 Looking to collaborate on practical web projects, UI/UX work, and open-source tools
-🤝 Looking for help with **full-stack architecture** and **local AI workflows**
-🌱 Learning **ReactJS**, **Python**, and **AI-powered study tools**
-💬 Ask me about PHP, MySQL, HTML/CSS/JS, Python, Figma, video editing, or chess
-⚡ Fun fact: I love running local AI models on my own machine and building clean, lightweight websites without heavy frameworks
+| | |
+|:--|:--|
+| 🔭 **Working on** | Web apps, UI/UX designs in Figma, and Arduino hardware circuits |
+| 👯 **Collaborating on** | Practical web projects, UI/UX work, and open-source tools |
+| 🤝 **Looking for help with** | Full-stack architecture and local AI workflows |
+| 🌱 **Learning** | ReactJS, Python, and AI-powered study tools |
+| 💬 **Ask me about** | PHP, MySQL, HTML/CSS/JS, Python, Figma, video editing, chess |
+| ⚡ **Fun fact** | I love running local AI models on my own machine and building clean, lightweight websites without heavy frameworks |
 
 ---
 
@@ -88,18 +85,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NixonIverson&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" width="100%" />
 </div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NixonIverson/NixonIverson/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NixonIverson/NixonIverson/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/NixonIverson/NixonIverson/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-<!-- The snake needs the GitHub Action in .github/workflows/snake.yml (see setup notes) -->
 
 ---
 
