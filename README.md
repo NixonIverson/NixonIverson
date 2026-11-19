@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web apps, UI/UX designs in Figma, and Arduino hardware circuits<br>👯 I’m looking to collaborate on practical web projects, UI/UX work, and open-source tools<br>🤝 I’m looking for help with full-stack architecture and local AI workflows<br>🌱 I’m currently learning ReactJS, Python, and AI-powered study tools<br>💬 Ask me about PHP, MySQL, HTML/CSS/JS, Figma, or chess<br>⚡ Fun fact: Fun fact: When I'm not debugging code, I'm either playing competitive chess or testing out new UI designs in Figma
+🔭 I’m currently working on web apps, UI/UX designs in Figma, and Arduino hardware circuits<br>👯 I’m looking to collaborate on practical web projects, UI/UX work, and open-source tools<br>🤝 I’m looking for help with full-stack architecture and local AI workflows<br>🌱 I’m currently learning ReactJS, Python, and AI-powered study tools<br>💬 Ask me about PHP, MySQL, HTML/CSS/JS, Python, Figma, Video editing, or chess<br>⚡ Fun fact: I love running local AI models on my own machine and building clean, lightweight websites without relying on heavy frameworks
 
 
 ## 🌐 Socials:
