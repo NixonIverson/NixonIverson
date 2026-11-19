@@ -51,12 +51,17 @@
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.shion.dev/api?username=NixonIverson&theme=radical&hide_border=true&show_icons=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=NixonIverson&theme=radical&hide_border=true&layout=compact" alt="top langs" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=NixonIverson&theme=radical&hide_border=true" alt="streak" />
 
+</div>
+
+### 🔤 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NixonIverson&theme=radical&hide_border=true&layout=donut&langs_count=8" alt="Most used languages" />
 </div>
 
 ### 📈 Contribution Activity
