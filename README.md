@@ -5,8 +5,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=NixonIverson&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
-<a href="https://github.com/NixonIverson?tab=followers"><img src="https://img.shields.io/github/followers/NixonIverson?style=for-the-badge&logo=github&color=24292e" alt="followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=NixonIverson&label=Profile%20views&color=ff2a6d&style=for-the-badge" alt="views" />
+<a href="https://github.com/NixonIverson?tab=followers"><img src="https://img.shields.io/github/followers/NixonIverson?style=for-the-badge&logo=github&color=7b2ff7" alt="followers" /></a>
 
 <br/><br/>
 
@@ -58,24 +58,24 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=NixonIverson&theme=radical&hide_border=true&show_icons=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=NixonIverson&show_icons=true&hide_border=false&bg_color=0a0014&title_color=05d9e8&text_color=e6e0ff&icon_color=ff2a6d&border_color=7b2ff7" alt="stats" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=NixonIverson&theme=radical&hide_border=true" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=NixonIverson&background=0a0014&stroke=7b2ff7&ring=ff2a6d&fire=f9f002&currStreakNum=05d9e8&sideNums=05d9e8&currStreakLabel=ff2a6d&sideLabels=e6e0ff&dates=b48cff" alt="streak" />
 
 </div>
 
 ### 🔤 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NixonIverson&theme=radical&hide_border=true&layout=donut&langs_count=8" alt="Most used languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NixonIverson&layout=donut&langs_count=8&hide_border=false&bg_color=0a0014&title_color=05d9e8&text_color=e6e0ff&border_color=7b2ff7" alt="Most used languages" />
 </div>
 
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NixonIverson&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NixonIverson&bg_color=0a0014&color=05d9e8&line=ff2a6d&point=f9f002&area=true&area_color=ff2a6d&title_color=05d9e8&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" width="100%" />
 </div>
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
@@ -86,4 +86,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2a6d,50:7b2ff7,100:05d9e8&height=120&section=footer&animation=twinkling" width="100%" alt="footer" />
