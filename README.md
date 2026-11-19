@@ -8,9 +8,17 @@
 <img src="https://komarev.com/ghpvc/?username=NixonIverson&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
 <a href="https://github.com/NixonIverson?tab=followers"><img src="https://img.shields.io/github/followers/NixonIverson?style=for-the-badge&logo=github&color=24292e" alt="followers" /></a>
 
+<br/><br/>
+
+<img src="./assets/status.svg" alt="Open to collaborate" />
+
+<br/><br/>
+
+<img src="./assets/ticker.svg" width="100%" alt="Interests ticker" />
+
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 ## 💫 About Me
 
@@ -23,7 +31,7 @@
 | 💬 **Ask me about** | PHP, MySQL, HTML/CSS/JS, Python, Figma, video editing, chess |
 | ⚡ **Fun fact** | I love running local AI models on my own machine and building clean, lightweight websites without heavy frameworks |
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 ## 🌐 Connect
 
@@ -34,7 +42,7 @@
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 ## 💻 Tech Stack
 
@@ -44,7 +52,7 @@
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 ## 📊 GitHub Stats
 
@@ -70,7 +78,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NixonIverson&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" width="100%" />
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 ### ✍️ Random Dev Quote
 
@@ -78,4 +86,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" alt="footer" />
